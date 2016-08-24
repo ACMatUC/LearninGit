@@ -1,5 +1,6 @@
 # LearninGit
 A repository to accompany ACM's August 25th meeting, a git workshop.
+blah blah blah
 
 Check out the presentation here: https://docs.google.com/presentation/d/1iZkIKBSVzhJRVIUgU1Lyav5LrjOXcKG428YARdFFeYo/edit?usp=sharing
 
