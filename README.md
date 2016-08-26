@@ -1,7 +1,15 @@
 # LearninGit
 A repository to accompany ACM's August 25th meeting, a git workshop.
 
-Check out the presentation here: https://docs.google.com/presentation/d/1iZkIKBSVzhJRVIUgU1Lyav5LrjOXcKG428YARdFFeYo/edit?usp=sharing
+[Check out the presentation here!](https://docs.google.com/presentation/d/1iZkIKBSVzhJRVIUgU1Lyav5LrjOXcKG428YARdFFeYo/edit?usp=sharing)
+
+[Enjoy tons of free software at from the github education pack!](http://education.github.com)
+
+Some of our favorite git guides:
+* [Atlassian](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)  
+* [UC QuickFix Workshop (UC private github)](https://github.uc.edu/QuickFixes/just-gittin-started)  
+* [Gitready](http://gitready.com/)  
+* [Git Tips](https://github.com/git-tips/tips)  
 
 ## Cheat Sheet
 ####Create a repo
